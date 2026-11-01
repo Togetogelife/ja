@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://togetoge.cc/ja/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://togetoge.cc/ja/</loc>
+</url>
+<url>
+<loc>https://togetoge.cc/ja/tesuto.html</loc>
+<lastmod>2026-11-01T10:12:15+09:00</lastmod>
+<image:image>
+<image:loc>https://togetoge.cc/ja/media/posts/1/sukurinsiyotuto-2026-05-21-175420.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

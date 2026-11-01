@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "新川崎（仮",
+    "description": "",
+    "home_page_url": "https://togetoge.cc/ja",
+    "feed_url": "https://togetoge.cc/ja/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "かすみ"
+    },
+    "items": [
+        {
+            "id": "https://togetoge.cc/ja/tesuto.html",
+            "url": "https://togetoge.cc/ja/tesuto.html",
+            "title": "テスト",
+            "summary": "テスト",
+            "content_html": "<p>テスト</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://togetoge.cc/ja/media/posts/1/sukurinsiyotuto-2026-05-21-175420.png\" alt=\"\" width=\"1981\" height=\"757\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://togetoge.cc/ja/media/posts/1/responsive/sukurinsiyotuto-2026-05-21-175420-xs.png 300w ,https://togetoge.cc/ja/media/posts/1/responsive/sukurinsiyotuto-2026-05-21-175420-sm.png 480w ,https://togetoge.cc/ja/media/posts/1/responsive/sukurinsiyotuto-2026-05-21-175420-md.png 768w\"></figure>",
+            "author": {
+                "name": "かすみ"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-01T10:12:15+09:00",
+            "date_modified": "2026-11-01T10:12:15+09:00"
+        }
+    ]
+}
